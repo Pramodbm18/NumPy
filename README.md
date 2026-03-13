@@ -141,7 +141,7 @@ Steps:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pramodbm18&show_icons=true&theme=tokyonight"/> </p>
 👨‍💻 Author
 
-Pramod M
+Pramod B M
 
 GitHub
 https://github.com/Pramodbm18
