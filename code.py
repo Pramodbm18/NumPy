@@ -284,3 +284,9 @@ print(np.isinf(b))
 new_b = np.nan_to_num(b) # Remove Nan / infinite values.
 print(new_b)
 
+# Saving and Loading NumPy Arrays
+arr = np.array([1,2,3,4,5])
+np.save("my_array.npy", arr) # Save array to a file
+loaded_arr = np.load("my_array.npy") # Load array from a file
+print(loaded_arr)
+
